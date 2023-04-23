@@ -1,16 +1,19 @@
-### Hi there 👋
+## Lee JaeHyeong
 
-<!--
-**rrr-jh/rrr-jh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Experience
+🔭 **[16.03 - 23.08]** INHA University / Department of Electronic Engineering, B.S  
+🤔 **[20.12 - 21.02]** GrewCreativeLab / Intern for Data Aqusition  
+🌱 **[22.03 - 22.08]** KIST AI Center / Research Intern   
+📫 **[22.11 - 22.12]** INHA University DSPLab / Student intern  
+⚡ **[23.03 - 23.04]** INHA University VCLLab / Student intern  
 
-Here are some ideas to get you started:
+___
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Prize
+🥈 **\``2nd Prizes\``** Unethical text data classification competition, NIA, Korea [2021.12]
+
+___
+
+### Blog
+Record What I Learned !  
+🥂 https://docon.tistory.com/
