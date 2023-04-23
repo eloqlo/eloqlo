@@ -10,7 +10,7 @@
 ___
 
 ### Prize
-🥈 **\``2nd Prizes\``** Unethical text data classification competition, NIA, Korea [2021.12]
+🥈 **\``2nd Place\``** Unethical text data classification competition, NIA, Korea [2021.12]
 
 ___
 
