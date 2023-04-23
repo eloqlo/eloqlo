@@ -1,6 +1,6 @@
 ## Lee JaeHyeong
 
-### Experience
+### My Experience
 🔭 **[16.03 - 23.08]** &nbsp; &nbsp; INHA University &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Department of Electronic Engineering, B.S  
 🤔 **[20.12 - 21.02]** &nbsp; &nbsp; GrewCreativeLab &nbsp; &nbsp; &nbsp; &nbsp; Intern for Data Aqusition  
 🌱 **[22.03 - 22.08]** &nbsp; &nbsp; KIST AI Center &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Research Intern   
