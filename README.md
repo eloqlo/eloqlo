@@ -15,9 +15,6 @@
 <br>
 <br>
 
-<div align=left><h2> Come Visit What I Learned ! </h2></div>  
-🥂 https://docon.tistory.com/  
-<br>
 
 <div align=center><h1><i> STACKS </i></h1></div>
 <div align=center> 
@@ -39,3 +36,8 @@
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <br>
 </div>
+<br>
+
+<div align=center><h1> Come Visit What I Learned ! </h2></div>  
+<div align=center> 🥂 https://docon.tistory.com/  </div>
+<br>
