@@ -38,6 +38,6 @@
 </div>
 <br>
 
-<div align=center><h1> Come Visit What I Learned ! </h2></div>  
+<div align=center><h1> Come Visit What I am Learning ! </h2></div>  
 <div align=center> 🥂 https://docon.tistory.com/  </div>
 <br>
