@@ -7,7 +7,7 @@
 📚 **[21.08 - 21.12]** &nbsp; &nbsp; Groom Bootcamp &nbsp; &nbsp; &nbsp; &nbsp; "NLP BootCamp"  
 🌱 **[22.03 - 22.08]** &nbsp; &nbsp; KIST AI Center &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "Research Intern: 3D Pose Estimation "  
 📫 **[22.11 - 22.12]** &nbsp; &nbsp; &nbsp; INHA University DSPLab &nbsp; &nbsp; &nbsp; &nbsp; "Student intern: Preprocessing Time Series Data"  
-⚡ **[23.03 ~ 23.04]** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; INHA University VCLLab &nbsp; &nbsp; &nbsp; &nbsp; "Student intern: Computer Vision"  
+⚡ **[23.03 ~ 23.04]** &nbsp; &nbsp; &nbsp; INHA University VCLLab &nbsp; &nbsp; &nbsp; &nbsp; "Student intern: Computer Vision"  
 <br>
 
 <div align=left><h2> PRIZE </h2></div>  
