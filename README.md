@@ -16,19 +16,17 @@
 <br>
 
 
-<div align=center><h1><i> STACKS </i></h1></div>
+<div align=><h2><i> STACKS </i></h2></div>
 <div align=center> 
-  <img src="https://img.shields.io/badge/python-EE4C20?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/c-EE4C24?style=for-the-badge&logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/c++-EE4C28?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/java-EE4C2C?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/python-181717?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/c-181717?style=for-the-badge&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/c++-181717?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/java-181717?style=for-the-badge&logo=java&logoColor=white">
   <br>
   
-  <img src="https://img.shields.io/badge/pytorch-44A833?style=for-the-badge&logo=pytorch&logoColor=black"> 
-  <img src="https://img.shields.io/badge/tensorflow-44A833?style=for-the-badge&logo=tensorflow&logoColor=white">
-  <img src="https://img.shields.io/badge/matplotlib-44A833?style=for-the-badge&logo=matplotlib&logoColor=white">
-  <img src="https://img.shields.io/badge/numpy-44A833?style=for-the-badge&logo=numpy&logoColor=white">
-  <img src="https://img.shields.io/badge/anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white">
+  <img src="https://img.shields.io/badge/pytorch-181717?style=for-the-badge&logo=pytorch&logoColor=white"> 
+  <img src="https://img.shields.io/badge/tensorflow-181717?style=for-the-badge&logo=tensorflow&logoColor=white">
+  <img src="https://img.shields.io/badge/numpy-181717?style=for-the-badge&logo=numpy&logoColor=white">
   <br>
   
   <img src="https://img.shields.io/badge/linux-181717?style=for-the-badge&logo=linux&logoColor=white"> 
