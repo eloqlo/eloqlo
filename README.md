@@ -16,7 +16,7 @@
 <br>
 
 
-<div align=><h2><i> STACKS </i></h2></div>
+<div align=center><h2><i> STACKS </i></h2></div>
 <div align=center> 
   <img src="https://img.shields.io/badge/python-181717?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/c-181717?style=for-the-badge&logo=c&logoColor=white">
