@@ -37,5 +37,5 @@
 <br>
 
 <div align=center><h1> Come Visit My Continual Learning </h2></div>  
-<div align=center> 🥂 https://docon.tistory.com/  </div>
+<div align=center><h2> 🥂 https://docon.tistory.com/  </h2></div>
 <br>
