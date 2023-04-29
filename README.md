@@ -15,7 +15,7 @@
 <br>
 <br>
 
-
+<!-- 
 <div align=center><h2><i> STACKS </i></h2></div>
 <div align=center> 
   <img src="https://img.shields.io/badge/python-181717?style=for-the-badge&logo=python&logoColor=white">
@@ -34,8 +34,8 @@
   <img src="https://img.shields.io/badge/git-181717?style=for-the-badge&logo=git&logoColor=white">
   <br>
 </div>
-<br>
+<br> -->
 
-<div align=center><h1> Come Visit My Continual Learning </h2></div>  
+<div align=center><h1> Come Visit My Learning </h2></div>  
 <div align=center><h2> 🥂 https://docon.tistory.com/  </h2></div>
 <br>
