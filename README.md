@@ -36,6 +36,6 @@
 </div>
 <br> -->
 
-<div align=center><h1> Come Visit My Learning </h2></div>  
-<div align=center><h2> 🥂 https://docon.tistory.com/  </h2></div>
+<div align=left><h3> Come Visit My Learning </h3></div>  
+🥂 https://docon.tistory.com/
 <br>
