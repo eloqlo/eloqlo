@@ -37,6 +37,6 @@
 </div>
 <br> -->
 
-<div align=left><h3> Come Visit My Learning </h3></div>  
+<div align=left><h3> Come Visit My Learning blog </h3></div>  
 🥂 https://docon.tistory.com/
 <br>
