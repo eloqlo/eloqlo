@@ -12,7 +12,7 @@
 <br>
 
 <div align=left><h2> PRIZE </h2></div>  
-🥈 ``2nd Prize`` <b> text data multi-label classification competition</b>, NIA, Jungang Univ, Korea [2021.12]  
+🥈 ``2nd Prize`` <b> multi-label text classification competition</b>, NIA, Jungang Univ, Korea [2021.12]  
 <br>
 <br>
 
