@@ -6,7 +6,7 @@
 ◾ **[22.03 - 22.08]** &nbsp; &nbsp; KIST AI Research Center &nbsp; &nbsp; &nbsp; &nbsp; "Research Intern: 3D Pose Estimation "  
 ◾ **[22.11 - 22.12]** &nbsp; &nbsp; &nbsp; INHA University DSPLab &nbsp; &nbsp; &nbsp; &nbsp; "Student intern: Preprocessing Semiconductor Manufacture Data"  
 ◾ **[23.03 - 23.04]** &nbsp; &nbsp; INHA University VCLLab &nbsp; &nbsp; &nbsp; &nbsp; "Student intern: Computer Vision Study"  
-◾ **[23.07 - 23.08]** &nbsp; &nbsp; Hanynag University &nbsp; &nbsp; &nbsp; &nbsp; "Computer Vision Study at Lab"
+◾ **[23.07 - 23.08]** &nbsp; &nbsp; Hanynag University &nbsp; &nbsp; &nbsp; &nbsp; "Computer Vision Study at Lab"  
 ◾ **[16.03 - 23.08]** &nbsp; &nbsp; INHA University &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;"Department of Electronic Engineering, B.S"  
 <br>
 
