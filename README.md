@@ -4,7 +4,7 @@
 
 ◾ **[20.12 - 21.02]** &nbsp; &nbsp; GrewCreativeLab &nbsp; &nbsp; &nbsp; &nbsp; "Intern for Data Aqusition"  
 ◾ **[22.03 - 22.08]** &nbsp; &nbsp; KIST AI Research Center &nbsp; &nbsp; &nbsp; &nbsp; "Research Intern: 3D Human Pose Estimation "  
-◾ **[22.11 - 22.12]** &nbsp; &nbsp; &nbsp; INHA University DSPLab &nbsp; &nbsp; &nbsp; &nbsp; "Student intern: Deep Learning for Analyzing Semi-conductor manufacture data"  
+◾ **[22.11 - 22.12]** &nbsp; &nbsp; &nbsp; INHA University DSPLab &nbsp; &nbsp; &nbsp; &nbsp; "Student intern: Deep Learning for Analyzing Semi-conductor data"  
 ◾ **[16.03 - 23.08]** &nbsp; &nbsp; INHA University &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;"Department of Electronic Engineering, B.S"   
 
  
